@@ -1,0 +1,4 @@
+﻿  shared_ptr_time.cpp
+d:\programowanie\projekty c++ visual 2015\shared_ptr_time\shared_ptr_time\shared_ptr_time.cpp(14): warning C4102: 'std': unreferenced label
+  shared_ptr_time.vcxproj -> D:\Programowanie\Projekty C++ Visual 2015\shared_ptr_time\Debug\shared_ptr_time.exe
+  shared_ptr_time.vcxproj -> D:\Programowanie\Projekty C++ Visual 2015\shared_ptr_time\Debug\shared_ptr_time.pdb (Full PDB)

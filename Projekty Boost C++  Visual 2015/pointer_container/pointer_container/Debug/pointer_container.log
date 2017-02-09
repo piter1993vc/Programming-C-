@@ -1,0 +1,4 @@
+﻿  pointer_container.cpp
+d:\programowanie\projekty c++ visual 2015\pointer_container\pointer_container\pointer_container.cpp(17): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  pointer_container.vcxproj -> D:\Programowanie\Projekty C++ Visual 2015\pointer_container\Debug\pointer_container.exe
+  pointer_container.vcxproj -> D:\Programowanie\Projekty C++ Visual 2015\pointer_container\Debug\pointer_container.pdb (Full PDB)

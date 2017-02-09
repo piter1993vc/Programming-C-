@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1474562946 source:f:\programowanie\c++\projekty prata c++\17.5cwdodat\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<iterator>
+	<algorithm>
+	<list>
+	<string>
+

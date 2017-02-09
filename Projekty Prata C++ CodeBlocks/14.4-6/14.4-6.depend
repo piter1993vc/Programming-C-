@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1470680204 source:f:\programowanie\c++\projekty prata c++\14.4-6\main.cpp
+	<iostream>
+	<string>
+	<valarray>
+

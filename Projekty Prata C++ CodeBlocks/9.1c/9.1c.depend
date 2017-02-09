@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1469883154 source:f:\programowanie\c++\projekty prata c++\9.1c\header.cpp
+	<iostream>
+	<cstring>
+	"header.h"
+
+1469883124 f:\programowanie\c++\projekty prata c++\9.1c\header.h
+

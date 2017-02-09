@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1471543074 source:f:\programowanie\c++\projekty prata c++\15.3cw\main.cpp
+	<iostream>
+	<stdexcept>
+	<cmath>
+
